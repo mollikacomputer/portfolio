@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 // import FooterBg from '../../assets/images/footer.png';
-import FooterBg from '../../src/Assets/images/footer.png';
+import FooterBg from '../../assets/images/footer.png';
 const Footer = () => {
 const currentYear = (new Date().getFullYear());
   return (
@@ -32,7 +32,7 @@ const currentYear = (new Date().getFullYear());
       </div>
       
       </div>
-      <p className="my-16">Copyright © {currentYear} - All right reserved by Dental Care</p>
+      <p className="my-16">Copyright © {currentYear} - All right reserved by Ranjit Kumar Mandal</p>
     </footer>
   );
 };
