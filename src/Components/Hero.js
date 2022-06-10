@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import PortfolioPic from '../../assets/portfolio2.jpg';
-import Resume from '../../assets/Resume.pdf';
+import PortfolioPic from '../assets/portfolio2.jpg';
+import Resume from '../assets/Resume.pdf';
 import { ToastContainer, toast } from 'react-toastify';
 
 import 'react-toastify/dist/ReactToastify.css';

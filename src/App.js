@@ -1,11 +1,12 @@
 
 import './App.css';
 import Header from './Components/Common/Header';
-import { Routes, Route } from "react-router-dom";
-import Home from './Components/Home';
 import About from './Components/About';
 import Contact from './Components/Contact';
-import Projects from './Components/Common/Projects';
+import Projects from './Components/Projects';
+import Home from './Components/Home';
+import { Routes, Route } from "react-router-dom";
+
 function App() {
   return (
     <Header >
