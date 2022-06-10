@@ -19,6 +19,11 @@ const Header = ({children}) => {
           contact
         </NavLink>
       </li>
+      <li>
+        <NavLink to="/projects" className="rounded-lg">
+          Projects
+        </NavLink>
+      </li>
     </>
   );
   return (
