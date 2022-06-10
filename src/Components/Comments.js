@@ -7,7 +7,7 @@ import People3 from "../../src/assets/images/people3.png";
 const Comments = () => {
   return (
 
-    <div>
+    <div id="comments" >
       <span className="flex justify-center items-center" >
       <h2 className="text-5xl text-primary"> Public reaction</h2>
       </span>

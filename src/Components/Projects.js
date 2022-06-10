@@ -5,19 +5,19 @@ const Projects = () => {
     const productsData = [
         {
           id: 0,
-          pic: `https://i.ibb.co/fpyrSgd/flag.jpg`,
+          pic: `https://i.ibb.co/MsZKyrf/1car-parts.jpg`,
           name: "Countries",
           description:'description'
         },
         {
           id: 1,
-          pic: `https://i.ibb.co/qrCv4T5/projects.jpg`,
+          pic: `https://i.ibb.co/crnZxBx/2grocery-Dealer.jpg`,
           name: "Complete projects",
           description:'description'
         },
         {
           id: 2,
-          pic: `https://i.ibb.co/HGRrVMg/people.jpg`,
+          pic: `https://i.ibb.co/4S9Jzg4/3private-tutor.jpg`,
           name: "happy clients",
           description:'description'
         },

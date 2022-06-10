@@ -2,8 +2,11 @@ import React from "react";
 
 const Skill = () => {
   return (
-    <div className=" card w-100 bg-base-100 shadow-xl">
+    <div id="skill" className=" card w-100 bg-base-100 shadow-xl">
+
         <div className="card-body card-title ">
+          <h2 className="text-5xl" > My Skill lavel</h2>
+          <div class="divider">X</div>
         <h2 className="text-4xl">
     <pre>
     HTML        <progress class="progress progress-secondary w-56" value="100" max="100"></progress><br/>
